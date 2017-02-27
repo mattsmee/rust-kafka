@@ -1,0 +1,9 @@
+[package]
+name = "easy_rust_kafka"
+version = "0.1.0"
+authors = ["Matt Chuang <mattsmee@gmail.com>"]
+
+[dependencies]
+error-chain  = "0.8.1"
+futures      = "0.1.9"
+rdkafka      = "^0.7.0"
